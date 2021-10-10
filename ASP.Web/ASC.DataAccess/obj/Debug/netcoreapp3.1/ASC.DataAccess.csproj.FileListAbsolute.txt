@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\bin\Debug\netcoreapp3.1\ASC.DataAccess.deps.json
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\bin\Debug\netcoreapp3.1\ASC.DataAccess.dll
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\bin\Debug\netcoreapp3.1\ASC.DataAccess.pdb
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\bin\Debug\netcoreapp3.1\ASC.Utilities.dll
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\bin\Debug\netcoreapp3.1\ASP.Model.dll
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\bin\Debug\netcoreapp3.1\ASC.Utilities.pdb
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\bin\Debug\netcoreapp3.1\ASP.Model.pdb
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\obj\Debug\netcoreapp3.1\ASC.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\obj\Debug\netcoreapp3.1\ASC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\obj\Debug\netcoreapp3.1\ASC.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\obj\Debug\netcoreapp3.1\ASC.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\obj\Debug\netcoreapp3.1\ASC.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\obj\Debug\netcoreapp3.1\ASC.DataAccess.csproj.CopyComplete
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\obj\Debug\netcoreapp3.1\ASC.DataAccess.dll
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASC.DataAccess\obj\Debug\netcoreapp3.1\ASC.DataAccess.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASP.Model\bin\Debug\netcoreapp3.1\ASP.Model.deps.json
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASP.Model\bin\Debug\netcoreapp3.1\ASP.Model.dll
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASP.Model\bin\Debug\netcoreapp3.1\ASP.Model.pdb
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASP.Model\obj\Debug\netcoreapp3.1\ASP.Model.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASP.Model\obj\Debug\netcoreapp3.1\ASP.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASP.Model\obj\Debug\netcoreapp3.1\ASP.Model.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASP.Model\obj\Debug\netcoreapp3.1\ASP.Model.AssemblyInfo.cs
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASP.Model\obj\Debug\netcoreapp3.1\ASP.Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASP.Model\obj\Debug\netcoreapp3.1\ASP.Model.dll
+C:\Users\Admin\Documents\laptrinhwindow\ASP.Web\ASP.Model\obj\Debug\netcoreapp3.1\ASP.Model.pdb
